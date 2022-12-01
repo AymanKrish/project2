@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Nerko+One&family=Pacifico&family=Permanent+Marker&display=swap');
+body{
+    background-color: rgb(213, 185, 149);
+}
+h2{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+div{
+    background-color: rgb(186, 132, 87);
+    height: 238px;
+    width: 14%;
+    float: left;
+    border: 11px rgb(213, 185, 149) solid;
+    padding: 10px;
+}
+#a1{
+    text-align: center;
+    font-size: xx-small;
+}
+img{
+    width: 43%;
+    height: 70px;
+    margin-left: 28%;
+}
+#a2{
+    text-align: right;
+    font-size: 8%;
+    font-family: 'Lobster', cursive;
+}
+#a3{
+   font-size: 49%; 
+   font-family: 'Pacifico', cursive;
+}
